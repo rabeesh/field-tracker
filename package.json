@@ -1,0 +1,11 @@
+{
+  "name": "field-tracker",
+  "version": "1.0.0",
+  "description": "Track mobx field changes in a tree structure ",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "mobx": "3.x || 4.x"
+  },
+  "author": "rab <rabeeshkumar@gmail.com>",
+  "license": "MIT"
+}
